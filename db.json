@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "name": "Morning walk",
+      "id": 1
+    },
+    {
+      "name": "Class",
+      "id": 2
+    },
+    {
+      "name": "Lunch",
+      "id": 3
+    },
+    {
+      "name": "Sleep",
+      "id": 4
+    },
+    {
+      "name": "Code",
+      "id": 5
+    },
+    {
+      "name": "Homework",
+      "id": 6
+    }
+  ]
+}
